@@ -1,10 +1,10 @@
 /*Fuentes*/
 @font-face {
-  src: url(fonts/alwornmachine.ttf);
+  src: url(./Fonts/alwornmachine.ttf);
   font-family: unbuendia;
 }
 @font-face {
-  src: url(fonts/Karla-Regular.ttf);
+  src: url(./Fonts/Karla-Regular.ttf);
   font-family: unbuendiaKarla;
 }
 /*Resto de la pagina */
